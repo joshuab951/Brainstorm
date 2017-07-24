@@ -1,0 +1,5 @@
+Label,Animal
+Filename,Animals.txt
+Label,Number
+Min,1
+Max,10
