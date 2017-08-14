@@ -1,3 +1,0 @@
-# Compile a C++ file to include both libxml2 and GTK+ 3.0
-gcc file.cpp -I/usr/include/libxml2 -lxml2 -o file `pkg-config --cflags --libs gtk+-3.0`
-
